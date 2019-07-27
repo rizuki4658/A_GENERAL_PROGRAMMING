@@ -1,0 +1,5 @@
+1. Membuat file html
+2. Pada elment body saya menambahkan atribut onload untuk memanggil fungsi generatePyramid()
+3. Pada bagian javascript saya membuat variabel array dengan nama array di isi dengan data berdasarkan soal.
+4. Melakukan pengulangan for loop untuk mengeluarkan isi-isi array dengan pattern segitiga kemudian menampilakn langsung isinya di bagian body document.write()
+5. Setelah itu saya melakukan melakukan pengulangan while terus didalam while saya melakukan kembali for loop untuk mencari nilai penjumlahan terbesar dari data

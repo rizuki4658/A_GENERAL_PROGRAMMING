@@ -1,0 +1,5 @@
+1. Pada masalah ini saya membuat file html, kemudian membuat form sederhana
+2. Kemudian membuat function dengan nama valueChange memiliki parameter n.
+3. didalam fungsi saya membuat variabel array dengan nama primas dan isi berdasarkan data-data yang ada wikipedia kumpulan bilangan prima.
+4. karena perhitungn index array dimulai dari nol maka dari itu saya membuat variabel x dimana x ini hasil dari parameter n dikurangi 1
+5. Output atau hasil dari fungsi ini saya isikan pada elemet input dengan id keluaran diambil dari primas[x];
